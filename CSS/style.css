@@ -1,0 +1,109 @@
+body{
+  font-family: verdana;
+  background-color: teal;
+}
+#title{
+  color: #fff;
+  background-color: teal;
+  background-size: cover;
+}
+
+
+.main-body{
+  /* background: url("/images/bg-intro-desktop.png"); */
+  /* background:url(/images/bg-intro-desktop.png); */
+  background-size: cover;
+}
+
+h1{
+  font-family: ubuntu;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+footer{
+  padding: 9%;
+  color: teal;
+  background-color: white;
+  text-align: center;
+}
+
+.footer-icon{   
+  margin: 3%;
+}
+
+h3{
+  padding-bottom: 2px;
+}
+
+.hoverspan:hover {
+  border-bottom: 2px solid whitesmoke;
+  cursor: pointer;
+}
+
+.footer-icon:hover{
+  transform: rotate(180deg);
+}
+
+.footer-icon{
+  padding: 1.5%;
+  border: 1px solid teal;
+  border-radius: 50%;
+}
+.container-fluid{
+  padding: 1% 10%;
+}
+/* navigation bar */
+.navbar{
+  padding: 1% 10% 4.5rem;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+
+
+/* download button */
+.download-button{
+  margin: 5% 3% 5% 0;
+  border-bottom-left-radius: 30%;
+  color:white;
+  background-color: teal;
+  border-top-right-radius: 39%;
+
+}
+
+/* title immage */
+.title-image{
+  width: 100%;
+  border-radius: 10px;
+  
+}
+
+.second-section{
+  background-color: white;
+  color: teal;
+  padding: 10% 5%;
+}
+
+.third-section{
+  background-color: teal;
+  color: white;
+  padding: 10% 5%;
+/* }
+.topNav{
+  background-color:white;
+  box-shadow:5px 5px teal;
+  height: 4rem;
+  color:black;
+} */
+
+
